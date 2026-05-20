@@ -1,0 +1,3 @@
+Ejercicio 4 - BC5
+Crear una interfaz que utilice HBox para organizar dos botones y VBox para agregar un tercer botón debajo de ellos.
+Al ejecutar la aplicación se abre una ventana de 400x200 píxeles con el título "Ejercicio 4". Los dos primeros botones se colocan en horizontal usando un HBox con 10 píxeles de separación, y el tercer botón aparece debajo mediante un VBox con 15 píxeles de separación. Ambos layouts están alineados a la izquierda con Pos.CENTER_LEFT.
